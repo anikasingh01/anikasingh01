@@ -1,4 +1,5 @@
 <!-- HEADER -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800000,100:A52A2A&height=280&section=header&text=Anika%20Singh&fontSize=80&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=🚀%20AI%20Architect%20%7C%20Full-Stack%20Developer%20%7C%20Explorer%20of%20Next-Gen%20Tech&descAlign=50&descAlignY=60&descColor=FFFFFF&animation=fadeIn" />
